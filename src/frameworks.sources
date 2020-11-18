@@ -1769,6 +1769,7 @@ SHARED_CORE_SOURCES = \
 	ObjCRuntime/Blocks.cs \
 	ObjCRuntime/Class.cs \
 	ObjCRuntime/Constants.cs \
+	ObjCRuntime/DesignatedInitializerAttribute.cs \
 	ObjCRuntime/INativeObject.cs \
 	ObjCRuntime/LinkWithAttribute.cs \
 	ObjCRuntime/NativeAttribute.cs \
@@ -1802,7 +1803,6 @@ SHARED_SOURCES = \
 	ObjCRuntime/CategoryAttribute.cs \
 	ObjCRuntime/Class.mac.cs \
 	ObjCRuntime/DelayedRegistrationAttribute.cs \
-	ObjCRuntime/DesignatedInitializerAttribute.cs \
 	ObjCRuntime/Dlfcn.cs \
 	ObjCRuntime/DynamicRegistrar.cs \
 	ObjCRuntime/ErrorHelper.cs \
